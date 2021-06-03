@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God the protector of Israel a commemoration sermon, for our gracious deliverance, from that monster of treacheries, the gunpowder treason : preached on Friday the fifth of November, at the parish church of S. Leonards Foster-lane, anno domini, 1641 / by H.M.</title>
+            <author>Miller, Henry, fl. 1641.</author>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26839</idno><idno type="EEBO-CITATION">18480985</idno>
+  <idno type="VID">206540</idno>
+  <idno type="EEBO-PROQUEST">2240876098</idno>
+  
+            <idno type="STC">Wing M2060A</idno>
+            <idno type="OCLC">18480985</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1639:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God the protector of Israel a commemoration sermon, for our gracious deliverance, from that monster of treacheries, the gunpowder treason : preached on Friday the fifth of November, at the parish church of S. Leonards Foster-lane, anno domini, 1641 / by H.M.</title>
+                  <author>Miller, Henry, fl. 1641.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for Thomas Warren ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Henry Miller.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Psalms CXXIV, 1-4 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206540:1"/>
+            <pb facs="tcp:206540:1"/>
+            <p>GOD THE PROTECTOR OF ISRAEL: A Commemoration Sermon, for Our gracious Deliverance, from that Monster of <hi>Treacheries,</hi> The Gunpowder Treason: Preached on Friday the fifth of <hi>November,</hi> at the Parish Church of <hi>S. Leonards Foster-lane; Anno Domini,</hi> 1641.</p>
+            <p>By H. M. <hi>in Artibus Magister.</hi>
+            </p>
+            <q>Inquire now of the days that are past, which were before thee, since the day that God created man upon earth, and ask from the one end of Heaven to the other, if there came to passe such a great thing as this, or whether any such like thing hath been heard. <bibl>Deut. 4. 32.</bibl>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>A. N.</hi> for <hi>Thomas Warren,</hi> and are to be sold at the White Horse in PAVLES Church-yard.</p>
+            <p>1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206540:2"/>
+            <pb facs="tcp:206540:2"/>
+            <head>TO THE RIGHT HONOVRABLE Sir Richard Gurnay, Knight, Lord Major of the Citie of <hi>London,</hi> with his vertuous Lady, present Felicitie, and everlasting Peace.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon was intended only for my private Auditory, but (<hi>ex malis mini<g ref="char:EOLhyphen"/>mum</hi>) to avoid a greater inconvenience, I am constrain'd, to present it to a pub<g ref="char:EOLhyphen"/>like view, and have presum'd, to dedicate it to your Honour▪ Be pleas'd (I humbly intreat) to afford it your favourable protection, that under your honored name, it may find the more free en<g ref="char:EOLhyphen"/>tertainment.
+<pb facs="tcp:206540:3"/> And accept it, as a testimony of my gratitude, for those immerited favours, I have re<g ref="char:EOLhyphen"/>ceiv'd from your selfe, with your vertuous Lady, who hath beene a great encouragement to mee in my Ministery, since my comming to this place. I must ingenuously acknowledge my inabilitie of repayment, but by my daily vote to Heaven, for your felicities, here, and hereafter, and ever rest</p>
+            <closer>
+               <signed>Your Honours to be <hi>commanded,</hi> Henry Miller.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206540:3"/>
+            <head>To the worthy Citizens, and his Christianly affected Auditors, of the Parish of Saint <hi>Leonards Foster-lane,</hi> Mercy, Love, and Peace be Multiplyed.</head>
+            <opener>
+               <salute>Courteous Friends,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He debt I owe you, exceeds my abilitie, not wil<g ref="char:EOLhyphen"/>lingnesse of payment, whereof I here tender you earnest; Let your goodnesse deale with mee, as with bad Debtors,</hi> Take this, till more comes. <hi>I ac<g ref="char:EOLhyphen"/>knowledge, you may justly clayme your interest in this Sermon, It was purposely prepared for your audience; Yet was it not then in my thoughts, it should appeare upon the stage, to receive its publike censure; But to prevent the intent of some, who were resolv'd to commit their owne imperfect notes to the Presse, I was constrained to deliver my own Copie. May it in your perusall, obtaine as charitable an eie, as you (were pleas'd) in the delivery to afford it an attentive eare, and to receive it from him, as one that unfainedly desires the salvation of your souls, The Authour hath his desire, whose daily petition is for your sanctification on earth, glorification in Heaven:</hi>
+            </p>
+            <closer>
+               <signed>Yours in all Christian duties, HENRY MILLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:206540:4"/>
+            <pb n="1" facs="tcp:206540:4"/>
+            <epigraph>
+               <bibl>PSAL. 124. 1, 2, 3, 4.</bibl>
+               <q>
+                  <l>
+                     <hi>If the Lord had not beene on our side (now may</hi> Israel <hi>say) If the Lord had not been on our side, when men rose up against us.</hi>
+                  </l>
+                  <l>
+                     <hi>They had then swallowed us up quick, when their wrath was kindled against us.</hi>
+                  </l>
+                  <l>
+                     <hi>Then the waters had drowned us, and the stream had gone over our soul, then had the swelling waters gone over our soul.</hi>
+                  </l>
+                  <l>
+                     <hi>Praysed be the Lord which hath not given us as a prey unto their teeth.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen King <hi>Ahashuerosh</hi> had granted Queen <hi>Hesters</hi> petition for recalling of <hi>Hamans Letters,</hi> (which were sent forth throughout all the <hi>Pro<g ref="char:EOLhyphen"/>vinces,</hi> for the <hi>destruction</hi> of the <hi>Iews</hi>) whereby the <hi>Iews</hi> were deli<g ref="char:EOLhyphen"/>vered from <hi>Hamans</hi> bloudy <hi>designe,</hi> It was immediatly commanded that the <hi>days</hi> of their intended <hi>sorrow</hi> should thereafter be kept <hi>Festivals,</hi> throughout every <hi>generation,</hi> every <hi>family,</hi> and every <hi>City,</hi> that the <hi>memoriall</hi> of that <hi>deliverance</hi> might not perish from them or their
+<pb n="2" facs="tcp:206540:5"/>
+               <hi>posterity. Hester</hi> 9. 28. which feast they called the feast <hi>Purim</hi> which is the feast of <hi>lots,</hi> for <hi>Haman</hi> had cast <hi>lots,</hi> and the <hi>lot</hi> was fallen in the month <hi>Adar,</hi> and on the thirteenth day of the said <hi>moneth,</hi> to have rooted out, and destroyed the <hi>Jewes</hi> throughout all the Kings Provinces, <hi>Hester</hi> 3. 13. In <hi>remembrance</hi> of which great <hi>deliverance,</hi> this <hi>Feast</hi> is had in observation among the <hi>Iews</hi> unto this day.</p>
+            <p>
+               <hi>Our</hi> present occasion is not much unlike, the cause of this <hi>our</hi> evening <hi>assembly,</hi> is the <hi>commemoration</hi> of our gra<g ref="char:EOLhyphen"/>cious <hi>deliverance,</hi> from that Monster of <hi>Treasons,</hi> which no age can <hi>parallel,</hi> conceived in our own <hi>Precincts,</hi> and should have brought forth <hi>ruine</hi> in our own <hi>eyes,</hi> when no other voice should have beene heard in our streets, then weeping, mourning, and exceeding great lamentation, <hi>Rachel</hi> weeping for her children, and would not be com<g ref="char:EOLhyphen"/>forted, because they were not. The lowder then the cry of our sorrow should have beene, the lowder ought the shouts of our joy now to be, God himself hath given the cause, that our hearts should be filled with joy, and our mouths with laughter.</p>
+            <p>It is accounted a part of wisdom to performe, <hi>opus diei, in die suo,</hi> the work of this day hath beene, and of this evening now is, to repeat our gratitude, lest the revoluti<g ref="char:EOLhyphen"/>on of time, should eat out of memory this our miracu<g ref="char:EOLhyphen"/>lous deliverance.</p>
+            <p>It is the endevour of our adversaries, to raze this Feast out of our Kalender, not ashamed to affirme, that this dayes devotion, was our fiction to scandalize them, no Conspira<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie of theirs to ruine our Kingdome, or at the best so far excuse it, (that no blemish may remayne on their Religion) That they confine it to the act of some few male-content and unfortunate Gentlemen, Indeed
+<pb n="3" facs="tcp:206540:5"/> they were male-content, in that their hopes were frustra<g ref="char:EOLhyphen"/>ted, and therein unfortunate, in which to this day wee are and (I hope to the end of the World) ever shall re<g ref="char:EOLhyphen"/>mayn fortunate, so that the successe is blamed, not the Treason condemned. But let them wish of this day as <hi>Job</hi> in his agony of his birth day, <hi>Iob</hi> 3. 6. that it may not be joyned with the dayes of the yeere, nor come into the count of the moneths, yet let us keep it in his season from yeere to yeere, as an eternall president of Gods care for his Church, and a never dying testimony of the hideous truelty of bloud-thirsty Catholikes. That when our children shall enquire, what this our joy and triumph means, wee may relate the miraculous deliverance the Lord hath wrought for this his <hi>Israel:</hi> For had not the Lord been on our side when men rose up against us, they had swallowed us up quick. This Psalme, with some pre<g ref="char:EOLhyphen"/>cedent and consequent Psames from the 120 to the 134 Psalme, are called Psalmes or Songs of degrees, and the reason as some affirme is, because of the ceremony the Priest used in singing of them, which was upon the stairs as they marched up into the House of the Lord, others suppose this title give them, because they were sung by the <hi>Jews</hi> in their comming up from <hi>Babylon</hi> into their own Country, and this carries some probability with it, be<g ref="char:EOLhyphen"/>cause some of these Songs speak expresly, of their return from captivity, and most of them of Gods deliverance of his people from manifold dangers.</p>
+            <p>This Psalme is <hi>Israels</hi> gratefull acknowledgment, that her deliverance from those imminent dangers, was through the power and providence of God, and by de<g ref="char:EOLhyphen"/>monstration of the greatnesse of her perill, she magnifies Gods favour in her mighty deliverance.</p>
+            <list>
+               <pb n="4" facs="tcp:206540:6"/>
+               <item>In the words observe these particulars,
+<list>
+                     <item>1 Mans intention for <hi>Is<g ref="char:EOLhyphen"/>raels</hi> misery.</item>
+                     <item>2 Gods prevention in the discovery.</item>
+                     <item>3 <hi>Israels</hi> gratitude for her delivery.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>In the intention observe
+<list>
+                     <item>1 Their malicious insurrection, <hi>Men rose up.</hi>
+                     </item>
+                     <item>2 The celerity of their destruction, <hi>swallowed up quick.</hi>
+                     </item>
+                     <item>3 There fury in execution and this is de<g ref="char:EOLhyphen"/>cyphered by two elements
+<list>
+                           <item>1 By fire, <hi>their wrath kindled,</hi>
+                           </item>
+                           <item>2 Water, <hi>the streames are gone over our souls.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>I shall gently strike these severall Aints, each of them will afford a spark, to lighten my Text: and First, of the generall. Mans intention for <hi>Israels</hi> misery.</p>
+            <p>
+               <hi>Gods Israel</hi> hath alwayes enemies rising up against her.</p>
+            <p>
+               <hi>David</hi> a type of the Church confesseth <hi>Psal.</hi> 25. 19. That his enemies were mighty, &amp; those that hated him with<g ref="char:EOLhyphen"/>out a cause were many in number. I need not spend time in confirmation of this truth, I would to God that da<g ref="char:EOLhyphen"/>ly experience did not subscribe <hi>a probatum est</hi> unto it; and what can <hi>Israell</hi> expect, since the God of <hi>Israell</hi> was made obnoxious to all the miseries, that cruelty could invent, or tyranny inflict upon him? <hi>Si hoc fit de virido, quid fiet de arido,</hi> if this be done to the greene tree what shall become of the dry &amp; withered branches? if the head be crowned with thornes, shall not the members bee sensible of the same torment? If the master drink vineger and gall, the servants must taste of the same bitter potion; If hee be
+<pb n="5" facs="tcp:206540:6"/>
+               <hi>vir dolorum,</hi> a man of sorrow, she must be <hi>vxor lathrimarum,</hi> a wife of teares; this our Saviour bid his Disciples ex<g ref="char:EOLhyphen"/>pect, 15. <hi>John</hi> 20, The servant is not greater then the Lord, if they have persecuted mee they will persecute you also. As Christ was crowned with thornes, so his Church hath laine in the bryars, as he bare his Crosse to Golgotha, so hath shee borne hers in all ages of the World, this is <hi>res mira, non nova;</hi> For it hath beene so from the beginning: wee finde her butchered in <hi>Abell,</hi> captivated in <hi>Egypt,</hi> flying and hiding herselfe in the time of Idolatrous Kings, after Christs comming into the flesh, cruelly persecuted first by Heathen, after by Arrian and Hereticall Emporors, and last of all by Antichrist and his adherents, who under pretence of being the Church, persocute the Church of God, and so glutted herselfe with the Church her Massacres, that the prophe<g ref="char:EOLhyphen"/>tick Apostle tels us <hi>Reve.</hi> 17. 6.. shee hath made herselfe drunke with the bloud of the Saints. Shee is rightly enti<g ref="char:EOLhyphen"/>tuled the militant Church, exposed to all the conflicts which the malice of Satan and his complices can raise up against her. Shee is resembled by the ship into which Christ entred; <hi>Mat.</hi> 8. 23. tossed to and fro. with many violent waves of troubles &amp; afflictions. This is the cause of her complaint, <hi>Cant.</hi> 1. 4. That though inwardly shee was as beautifull as the Curtains of <hi>Solomon,</hi> yet out<g ref="char:EOLhyphen"/>wardly, by reason of the heat of her persecutions, shee was become as blacke as the tents of <hi>Kedar.</hi> Shee is styled <hi>Lilium inter Spinas, Cant.</hi> 2. 2. As a Lilly among the Thornes, so is my Beloved among the daughters. A Dove whose note is mourning, <hi>Cant.</hi> 2. 14. My Dove that mourn'st in the clifts of the Rock, let mee see thy face. A Vine spoiled with little Foxes, <hi>Cant.</hi> 2. 15. Take us the Foxes, and the little Foxes which spoile our vine.
+<pb n="6" facs="tcp:206540:7"/> Decyphered by a childe-bearing woman pursued by a Dragon: <hi>Revel.</hi> 12. 13.</p>
+            <p>For the better demonstration of the malice of the ungodly against Gods <hi>Israell,</hi> we will briefely touch the particulars expressed in the Text. First their insurrection: <hi>rose up against us.</hi>
+            </p>
+            <p>This phrase of rising against is first used of <hi>Cain,</hi> when his brother <hi>Abell</hi> and he were walking together in the field, it is said, <hi>Gen.</hi> 4. 8. he rose up against him, under which is observed the secrecy and covert of <hi>Cains</hi> malice. When enmity is sheltred under the cloak of amity, the intended mischief is more inevitable, therfore saith the sweet singer of <hi>Israel, Psal.</hi> 55. 12. Had it beene mine enemy, <hi>J</hi> could have borne it, neither did mine ad<g ref="char:EOLhyphen"/>versary exalt himselfe against mee, for <hi>J</hi> would have hid me from him, but it was my companion and my familiar: and such enemies as these cannot <hi>Israel</hi> escape, whilst a sheepskin can be got for a Wolfe to maske in: these like <hi>Judas</hi> come with a kisse in their mouthes, Haile Master, and yet carry Treason in their hearts, to deliver him up into the hands of his enemies, these with <hi>Herod</hi> wil com<g ref="char:EOLhyphen"/>mand the Wisemen to seeke diligently for Christ under pretence of worship, whose intent is to murder him: with <hi>Herodias</hi> will salute him with many goodly titles, <hi>Master, we know that thou art true,</hi> but of purpose to tempt him: and with <hi>Dalilah,</hi> pretend all love to <hi>Sampsom,</hi> that she might betray him: And these are great troublers of the peace of our <hi>Israel.</hi>
+            </p>
+            <p>Secondly, The celerity of their intended destruction. <hi>Swallowed us up quick.</hi> We shall finde the like phrase used in the <hi>Numbers</hi> 16. 30. where the sudden destruction of <hi>Korah, Dathan</hi> and <hi>Abiram</hi> is set down The earth opened her mouth, and swallowed them up, that they went down
+<pb n="7" facs="tcp:206540:7"/> quick into the pit. So this phrase in the text sets forth the suddennesse of their intended destruction, and this is a great aggravation of their malice, because there is small hopes of prevention, of a sudden intended desolation. The Prophet <hi>Esay</hi> describes them in <hi>Esay</hi> 59. 7. Their feet run to evill, and they make haste to shed innocent bloud. They cannot rest untill they have accomplished their greedie and malicious desires, they bind themselves as those Conspirators against <hi>Paul, Acts</hi> 23. 12. Neither to eat or drinke untill they have imbrued their hands in bloud. Of such a ravenous disposition are these Cormo<g ref="char:EOLhyphen"/>rants, that we may complain as God doth by his Prophet, They have eaten up my people, as a man would have eaten bread.</p>
+            <p>Thirdly, their furious inclination described by those Elements of Fire and Water:</p>
+            <q>
+               <hi>Their wrath kindled, and the waters gone over our souls.</hi>
+            </q>
+            <p>It is observed that these two Elements are excellent Servants, but most mercilesse Masters, when once they get the mastery, there is no pity or compassion, they re<g ref="char:EOLhyphen"/>verence not the aged, or pity the sucking infant, if brought into their power, they canot escape the flames of the one, or avoid the waves of the other▪ such is the fury of the il-wishers to Gods <hi>Israel,</hi> nothing but wasting &amp; desolati<g ref="char:EOLhyphen"/>on is in their paths: <hi>Esay</hi> 59. 7. Their very breath is ruine, the language of their lips like that which <hi>Babylon</hi> spake concerning <hi>Jerusalem, Psal.</hi> 137. 7. Rase it, rase it, to the foundation thereof, every print of their foot, vastation, all their plots &amp; devises for the destruction of▪ <hi>Gods Israel.</hi>
+            </p>
+            <p>Here may you survay the state of Gods Church on earth, subject to the malice of tyrannicall Enemies, en<g ref="char:EOLhyphen"/>compassed with such thornes and bryars, that with <hi>Job,</hi> shee scarce hath a breathing space left to case her heart
+<pb n="8" facs="tcp:206540:8"/> with articulate lamentation. Indeed, it was the patrimony Christ bequeathed her: for temporall possessions Christ had none, The Foxes have holes, the Birds of the aire have nests, but the Son of man hath not whereon to lay his head; at his death hee bequeathed his soule into the hands of his Father, his body was begged by <hi>Joseph</hi> of <hi>Arimathea,</hi> for his vesture the Souldiers cast lots, there was nothing now remayning but his crosse and crowne of thorns, and this hath he left her in liew of an Herriot.</p>
+            <p>And if this be her state in the generall, we may with fa<g ref="char:EOLhyphen"/>cility perceive our particular conditions, if this be the estate of the whole body, each member most sympa<g ref="char:EOLhyphen"/>thize, and beare some part of the misery. There is no comming to <hi>Canaan,</hi> before we first wander through the Wildernesse, no reaping in joy, before wee have sowne in teares, wee must first fight, and then receive the Crowne, <hi>Non potest esse victoria, nisi praecesserit pugna:</hi> we must first expect, <hi>compati,</hi> to suffer, and then <hi>conregnare,</hi> to raigne, for thus it behoved the true Sun of righteousnesse first to suf<g ref="char:EOLhyphen"/>fer, and then to enter into his Fathers Kingdome, hee first ascended <hi>Golgotha</hi> with his Crosse, before hee ascended Mount <hi>Olivet</hi> to Heaven: so must we first taste of his bit<g ref="char:EOLhyphen"/>ter cup, and then desire to be with him in Heaven.</p>
+            <p>Let not this dishearten us, or make us faint under the burthen of our Enemies, remember in all thy miseries God is the principall agent, and this will be as Balme of <hi>Gilead,</hi> to cure the former Ulcer.</p>
+            <p>In trouble look higher then the instrument, and behold the Agent, whether <hi>Tertullus</hi> persecute the Church with his tongue, or <hi>Elymas</hi> with his hand, remember God hath the command of both. It is true, the wicked are medi<g ref="char:EOLhyphen"/>are causes of our troubles, but God he ordereth and ap<g ref="char:EOLhyphen"/>pointeth what stroakes shall be given us, who hath not
+<pb n="9" facs="tcp:206540:8"/> onely a glasse to keep every drop of bloud which distills from our veins, but also a bottle to preserve every teare which falls from our eyes, <hi>Psal. 56. 8. Job</hi> could discerne Gods arrows in the hand of Satan, and his hand though on the arms of the <hi>Sabeans,</hi> and therefore he saith, not Satan, or <hi>Sabeans,</hi> but <hi>Deus abstulit,</hi> howsoever they be wicked in<g ref="char:EOLhyphen"/>struments, yet the just hand is the Lords. Ungodly men have a will of themselves, to vex and persecute the chil<g ref="char:EOLhyphen"/>dren of God, yet power they can have none, so much as to take a haire from our head, except it be given them from above, who can execute his just judgments by unjust Ministers, For though they intend evill against his ser<g ref="char:EOLhyphen"/>vants, yet he will turn it unto good to them as <hi>Joseph</hi> told his brethren, <hi>Gen.</hi> 50. 20. When ye thought evill against me, God disposed it to good.</p>
+            <p>Second generall, <hi>God's prevention.</hi>
+            </p>
+            <p>In the former part, you have men rising up against <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> in this you have God fighting for <hi>Israel,</hi> and there can be no doubt of the conquest, where God is a party, and becoms a Combatant, Thus the Lord upbraids his people in <hi>Esay</hi> 31. 3. and give this a Reason of their future ruine, For the <hi>Egyptians,</hi> they are men and not God, their horse, flesh and not spirit, therefore when the holy One of <hi>Is<g ref="char:EOLhyphen"/>rael</hi> shall come, the helper and he that is holpen shall both perish together.</p>
+            <p>Gods <hi>Israel</hi> though not invulnerable, yet invincible.</p>
+            <p>The red Dragon may spout forth flouds of venome, yet hath the Church-wings to flie for safetie, Let <hi>Jezabel</hi> fret her heart out, and swear by all her gods, to take away the life of the Prophet, yet <hi>Eliah</hi> (though in a Cave) shall be preserved. Let bloudy <hi>Herod</hi> murther all the male-chil<g ref="char:EOLhyphen"/>dren in <hi>Bethlehem,</hi> from two yeers old and under, yet shall
+<pb n="10" facs="tcp:206540:9"/> the Babe escape his cruelty, though it be by flight into <hi>Egypt:</hi> God may for a time, absent himselfe from <hi>Israel,</hi> yet will not utterly forsake <hi>Israel,</hi> For a little space have I hid my face from thee, but with everlasting mercies, will I receive thee; His hiding it is <hi>ad modicum,</hi> for a little, <hi>ad momentum,</hi> for a small space, but his mercy will he never wholly remove from them. Hee may hide his face, but not turn away his heart.</p>
+            <p>Calamities in the text are presented to us in the name of waters, and deep waters, yet are they neither bound<g ref="char:EOLhyphen"/>lesse nor bottomlesse, God provides a remedie against the deepest waters, he becomes our strength, and what inundation of waters can over-flow those banks? The rain fell, the flouds came, the winds blew, and beat upon that house, and it fell not, for it was grounded on a rock, <hi>Math.</hi> 7. 25. Wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a violent storme is this? as if Heaven, Earth, and Sea, had conspired against one poore Cottage, take them all not severally, but with their united forces, yet the foundation stands. The Apostle propounds the question, <hi>Rom.</hi> 8. 35. What shall separate us from the love of Christ, shall tribulation, or anguish, or persecution, or famine, or nakednes, or peril, or sword? what voluminous waves are here, for number, for power, for terrour? yet in all these are wee more then conquerours through him that loved us. I grant it is a Sea too deep for us, yet this is our comfort, Gods Arke draws foure Cubits above the waters, when they were 15 Cubits above the Mount<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins:</p>
+            <p>Israels <hi>safegard, is the God of</hi> Israel:</p>
+            <p>This is the burthen of every Song of our heavenly <hi>Orpheus,</hi> not a string in <hi>Davids</hi> Harpe, but sounds forth this tune. Thou Lord onely makest me dwell in safey, is the confession of the King of <hi>Israel: Psal.</hi> 488. and in the 18 <hi>Psal.</hi> 2. hee seems to run division. The Lord is my rock, and my fortresse, and he that delivereth me, my God and
+<pb n="11" facs="tcp:206540:9"/> my strength: in him will I trust, my shield, the horne also of my salvation, and my refuge. All the forces in the World are of no force without him, no magazine of trea<g ref="char:EOLhyphen"/>sure or of armour, no Ships by Seas, no strength by Land can secure us, without his protection, Except the Lord build the house, the builder buildeth but in vaine, except he watch the City, the Watchman watcheth but in vain, <hi>Psal.</hi> 127. 1.</p>
+            <p>It is worth our observation, The time of <hi>Israels</hi> delive<g ref="char:EOLhyphen"/>rance, then when they were in extremity of danger: rea<g ref="char:EOLhyphen"/>dy to be swallowed up:</p>
+            <p>The more grievous the exigent, the more glorious the advancement.</p>
+            <p>Mans greatest extremity, is Gods fittest opportunity.</p>
+            <p>When the fire was a kindling and the sulpherous deluge prepared in the clouds for <hi>Sodoms</hi> combustion, then is <hi>Lot</hi> snatched out of <hi>Sodome,</hi> Look on <hi>Moses</hi> horn in the time of <hi>Pharaohs</hi> bloudy Decree, that every man-child should be cast into the River, <hi>Exodus</hi> 1. 22. the mothers feares that the executioners hands would succeed the Midwives, makes her second throws more violent then the first, still she expects when some cruell <hi>Aegyptian</hi> should snatch her tender Infant from her brest▪ at length the fearfull parent adventures the Childs life to save their own, <hi>Exod.</hi> 2. 3. she puts him in a reeden Arke by the rivers brink, what could now be expected but inevitable death, what hope the babe should escape being committed to the unmerciful waves, yet there's a God that beholds him, and takes this very pinch, the time for his deliverance. The Lord he so dis<g ref="char:EOLhyphen"/>poseth, that at this time the Tyrants Daughter comes to bath her self, the Ark offers it self to her eye, the cry of the infant to her eare, cōpassion leaps into her heart, and now (ignorantly) she provides the mother to become the nurse, she that could not keep him before without danger, now
+<pb n="12" facs="tcp:206540:10"/> receives him by authority, here was a deliverance and that in season: See the extremity of <hi>Israel,</hi> betwixt the <hi>Egyptians</hi> and the Red Sea; the <hi>Egyptians</hi> promise them<g ref="char:EOLhyphen"/>selves the victory, and the <hi>Israelites</hi> are talking of their Graves, <hi>Exod.</hi> 14. 11. then comes the God of <hi>Israel,</hi> and makes the deep their protection, and the Sea a Gallery, or through▪ fare for them. <hi>Vbi deest humanum consilium, ibi a<g ref="char:EOLhyphen"/>dest divinum auxilium.</hi>
+            </p>
+            <p>Let this consideration be our supporter in the Churches greatest miseries. I confesse, it may be with the Church, as it was with the Citie wherein the Prophet <hi>Elisha</hi> was, encompassed about with Horses and Chariots, &amp; a migh<g ref="char:EOLhyphen"/>ty host, and we like the Prophets man, ready to cry out, Alas, what shall wee doe? Let mee answer thee in the words of the Prophet, 2 <hi>Kings</hi> 6. 16. Feare not, they that be with us are more, then they with them. The Ship in the 24 of <hi>Matthew,</hi> may be ready to be over-whelmed with waves, and the Disciples despaire of safety: yet then will Christ arise, and rebuke the winds and the waves, and there shal be a great calm. Remember the Lord is with his <hi>Israel,</hi> his wisdome to direct her, his power to protect her▪ his strength to support her, his goodnesse to mayntaine her, his bounty to reward her, his word to encourage her, and if any of his members perish in the skirmage, his An<g ref="char:EOLhyphen"/>gels are in readinesse to transport their souls into his hea<g ref="char:EOLhyphen"/>venly Mansions.</p>
+            <p>When the Angel saluted <hi>Gideon, Jud.</hi> 6. 13. God be with thee, He replyed, If God be with us, how is all this evill befalne us, Why doe the <hi>Midianites</hi> vex us? Yes, God may be with us, and the <hi>Midianites</hi> against us, yea, there<g ref="char:EOLhyphen"/>fore are they against us, because God is with us, and God tels him in the fourteenth Verse, Goe on in thy might, for thou shalt save <hi>Israel</hi> out of the hands of the <hi>Midianites:</hi>
+               <pb n="13" facs="tcp:206540:10"/> Though the enemies of Gods Church and people may for a time insult, yet in the end his people shall bee as mighty men, treading down their enemies in the mire of the streets, and they shall fight, because the Lord is with them: <hi>Zach.</hi> 10. 5. The Church of God it is that towre of <hi>David, Cant.</hi> 4. 4. not so many darts on the one side, for to wound, but as many shields on the other to defend. Jovem <hi>&amp;</hi> Junonem <hi>à juvando, dictos esse ait</hi> Cicero, <hi>sed hoc in Deum,</hi> quoth <hi>Lactantius, optimè quadrat:</hi> this well agrees with God, <hi>qui juvat, servat, &amp; salvat.</hi>
+            </p>
+            <p>He is in our sicknesse a restorer, in our imprisonment a deliverer, in our saile a Mariner, in our Cities a Watch<g ref="char:EOLhyphen"/>man, in our battails a Souldier, in our life a Keeper, in our death a Reviver.</p>
+            <p>This truth is like <hi>Davids</hi> Harp to <hi>Saul,</hi> in his melancho<g ref="char:EOLhyphen"/>ly, like the Dove to <hi>Noah</hi> in his Deluge; what though (like the ship in the Sea) we are beaten with wind, tossed with waves, yet whilst Christ is in the ship, it cannot sink. Weep not <hi>Hagar,</hi> a Wel shall spring up in the Wildernes; Feare not <hi>Samson,</hi> a jawbone shall slay many thousand <hi>Philistins;</hi> Despaire not <hi>Elias,</hi> the Ravens shall bring thee food; be not discomfited O widow of <hi>Sarepta,</hi> the meale in the barrell, and the oile in the cruze shall not wast: As<g ref="char:EOLhyphen"/>sure your selves, hee that commanded the Whale to cast up <hi>Jonas</hi> on the dry Land, turn'd the Rock into a River, Flintstone to a springing Well, he that saved <hi>Paul</hi> in the depth of the Sea, will performe the like for you, <hi>Spera<g ref="char:EOLhyphen"/>mus, &amp; superamus,</hi> A glorious day shall attend your clou<g ref="char:EOLhyphen"/>dy morne. The extremity of thy misery, shall be the op<g ref="char:EOLhyphen"/>portunitie for Gods delivery.</p>
+            <p>God doth not only deliver his people, but sometimes int<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngles their enemies in their own snare, <hi>Psal.</hi> 7. 15. 16. He hath made a pit and digged it, and is falne into the pit
+<pb n="14" facs="tcp:206540:11"/> that hee made, His mischiefe shall returne upon his owne head, and his cruelty shall fall on his own pate. It is just with God to mete the wicked, their own measure, as hee did to the accusers of the three children, <hi>Dan.</hi> 3. 22. slaine with the fire, they prepared for <hi>Shedrach, Meshach,</hi> and <hi>Abednego:</hi> and to the traducers of <hi>Daniel,</hi> who were cast to the Lions, whom they had kept fasting to devoure the Prophet, <hi>Dan. 6. 24. Haman</hi> hanged on the same gallows, he prepared for <hi>Mordecai, Ester</hi> 7. 10. There can be no ju<g ref="char:EOLhyphen"/>ster law then that the devisers of mans ruine, should rue their own devices:</p>
+            <p>Thirdly, <hi>Israels</hi> gratitude for her delivery.</p>
+            <p>Gods mercies are motives to Christian prayses.</p>
+            <p>
+               <hi>Beneficium postulat officium,</hi> the thankfulnesse of the re<g ref="char:EOLhyphen"/>ceiver, ought to answer the bounty of the bestower, as the Eccho answers the Voice, we receiving the one, are bound to return the other. The <hi>Israelites</hi> after their deliverance from the Red Sea, as if they were baptized in a sacred <hi>Helicon,</hi> became Poets, singing their triumphant Song to the Lord. <hi>Exod. 15. 1. Moses</hi> bringing water out of the Rock, as if they had washed their mouthes in Hippo<g ref="char:EOLhyphen"/>creane, their voyces were tun'd to a high strain, <hi>Numb. 21. 17. Sancti sunt, insignes Dei citharaedi,</hi> They are excellent Harpers unto God, the strings of this Harpe are our affe<g ref="char:EOLhyphen"/>ctions, and then is our heart a ten-stringed instrument, when the affections are set to the pleasant strain of thank<g ref="char:EOLhyphen"/>fulnesse.</p>
+            <p>God having first by afflictions taught us to know our selves, doth afterward by deliverance, teach us to know him:</p>
+            <p>The man sick of the Palsie no sooner receives his cure, but he payes his Physician, he departs home to his house, pray sing God, <hi>Luke</hi> 5. 25.</p>
+            <pb n="15" facs="tcp:206540:11"/>
+            <p>This debt man owes, and God expects, we forfeit ma<g ref="char:EOLhyphen"/>ny of his favours, for default of payment of this rent. It is a ready rent, never to seek, had we but willing hearts to discharge it. Since we cannot requite his benesits, let us return a gratefull acknowledgement. Hee is content to share his works betwixt himselfe and us, if wee receive the good, let us ascribe to him the glory; If hee send us health, let us sing him Hymnes; if he give us deliverance, let us return him thankfulnes, and sing with <hi>David,</hi> Praise the Lord, O my soule, and all that is within me praise his holy Name. <hi>Psal.</hi> 103. 1.</p>
+            <p>God, for this end, hath given man two priviledges a<g ref="char:EOLhyphen"/>bove his fellow creatures, reason and speech, that by the one he might conceive of the great works of God, which the rest cannot, so by the other, he may expresse what he conceives to the honour of his Creator, which the other doe not.</p>
+            <p>Should we escape a dangerous sicknesse, and not blesse God for our recovery, we rise, from our beds and owe for our physick; hath his Angell forbore to sheath his sword in our bowels, when others have falne under his impar<g ref="char:EOLhyphen"/>tiall hand, be humbly thankfull, otherwise feare a worse plague left behind for us.</p>
+            <p>I grant God receives not any benefit by this, <hi>nec melior si laudaveris, nec deterior si vituperaveris,</hi> our magnifying him, is not <hi>magnum facere,</hi> but only <hi>magnum dicere,</hi> his glory by our prayses, is not <hi>major,</hi> but <hi>notior.</hi> The felicity of it is ours, that he permits us to take his glorious name into our mouthes, is a great honour, but that he will t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke his name any wayes dignified by our mouthes, and put the promul<g ref="char:EOLhyphen"/>gation of his honour into our polluted lips, is a greater; Resolve therefore with <hi>David, Psal.</hi> 146. 1. 2. I will prayse
+<pb n="16" facs="tcp:206540:12"/> the Lord during my life, as long as I have any being, I will sing praises unto my God.</p>
+            <p>The Application of the text, to this present occasion.</p>
+            <p>If in this I may have liberty to deale with this text, as <hi>Eliah</hi> did with the <hi>Shunamites</hi> child, and joyne each parti<g ref="char:EOLhyphen"/>cular, to the cause of this our Evening assembly, I am cer<g ref="char:EOLhyphen"/>tain we shall find that,</p>
+            <q>Mutato nomine de nobis narratur fabula.</q>
+            <p>And may <hi>England</hi> truly say, Had not God beene on our side, when men rose up against us, they had swallowed us up quick.</p>
+            <p>This day subscribes a <hi>probatum est</hi> to the Text, this Scripture, is this dayfulfilled in your ears, this day presents a fresh to our memories a prodigious designe of Satans malice, with a strange example of a divine providence; And first of the fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st gener<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll:</p>
+            <p>Their Intention for our misery.</p>
+            <p>The Antichristian enemies of Gods Church and Truth, after the inf<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuation of so many treacherous Conspira<g ref="char:EOLhyphen"/>cies, foun<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out at the last a speeding one, such as from the fall of reprobate Angels, never came into the thought of any Devill, to put into the head of any man, or if a Dev<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll could devise it, yet to find a heart to receive, or a hand to act, would have been thought impossible.</p>
+            <p>First, For their secrecie, they tyed themselves to that by a troble band, Religion, Oath, Sacrament; <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll sweare by the blessed Trinitie and holy Sacrament, not to r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veale it, thus they eat their god on a bargain of bloud; monstrous impietie! Religion a cloak for Treason, what a Church is this, whose foundation is laid in bloud, whose Doctrine is massacres of Kings, ruine of Kingdomes?
+<pb n="17" facs="tcp:206540:12"/> where this is taught as truth, surely the Devill must be expected in the Pulpit.</p>
+            <p>Secondly, Sudden: <hi>Hamans</hi> plot was sufficiently dam<g ref="char:EOLhyphen"/>nable, the intended ruine of <hi>Israel,</hi> yet had they time of preparation, this farre more detestable, with suddennesse it would have prevented Domesday, and sent up bodies before the Resurrection. <hi>Haman</hi> first caused a Procla<g ref="char:EOLhyphen"/>mation to be published, that on such a day the <hi>Jews</hi> should be put to death, so that they which could might secretly escape, and they that could not, might fit themselves for death. But this our intended misery, as it was kept as secret as the powder, so as suddenly it should have been executed, to the hazard of many a soul; where there is no escaping, but we must be surprized by death, it is good to have some warning; that wee may the better prepare our selves for God, but in this Conspiracie, de<g ref="char:EOLhyphen"/>struction should have seized on us, even then when peace and security was expected, the first day of a Parliament, when the State of a Kingdome was assembled, then they intended that sudden death should overtake us: Monsters of men! that at one blast would have blowne up King, Prince, Nobility, Clergie, Commons, the Estates of a whole Realme. Certainly, the Heathen could not but stand amazed, that ever the earth should beare such a brood of Miscreants.</p>
+            <p>Thirdly, There cruelite: I have read that <hi>Caligula</hi> the Tyrant being dead, there was found in his Closet, <hi>duo libelli,</hi> the one called a Sword, the other a Dagger, wherein many were by name pricked for death, and destined to it in the Emperours bloudy intention, Thus in their cruel<g ref="char:EOLhyphen"/>ty were we appointed as sheep for the slaughter.</p>
+            <p>Thus did our insulting adversaries in Eighty eight, with their (supposed) invincible: <hi>Armade,</hi> the Ensigne
+<pb n="18" facs="tcp:206540:13"/> of whose Ships, were <hi>victoria, victoria,</hi> such was there implacable fury, that they brought with them strange in<g ref="char:EOLhyphen"/>struments of torture, as if the land of peace had no such engines of crueltie, here were the waters readie to goe over our souls.</p>
+            <p>They have been as mercilesse with fire, The time was when the <hi>Bonners</hi> made bone-fires of the bodies of Gods Saints, when they martyred the living with the dead, burnt the impotent Wife with her Husband, who is content to die with him, with whom shee may not live. When they threw the new born, or rather the scarce born infant, dropping from the mothers wombe, into the mothers flames, here was a fiery zeale, set on flame with the fire of hell, they love fire still, they were then for fag<g ref="char:EOLhyphen"/>gots; but now for powder: if these be Catholikes I never read or heard of Canibals.</p>
+            <p>To murder a King is barbarous, yet a thing not unheard of, but in this manner a King blowne up apparelled in his Royall Robe, with his Imperiall Crowne on his head, the Scepter in his hand, sitting on the Throne of his King<g ref="char:EOLhyphen"/>dome, in the midst of all his State, hee and they at once blown up together, <hi>Monstrum horendum.</hi>
+            </p>
+            <p>It hath been said of <hi>Africa,</hi> that every yeere it brings forth a new Monster, it never brought forth such a one as this, to which: <hi>Nihil nisi nomina desunt,</hi> the supereminent Colossus of all Treasons, They had devised <hi>commune ro<g ref="char:EOLhyphen"/>gum,</hi> a common bonefire, a generall combustion, bloudy pri<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts? that at once would have offered a whole burnt sacrifice, for an oblation to their <hi>Moloch</hi> of <hi>Rome.</hi>
+            </p>
+            <p>That butchery of <hi>Paris</hi> might have bin pictured in the Popes Palace, by the Painters art, but what colours could expresse this bloudy confusion, what stain could shadow the bloud of such Royall Princes, what red describe the
+<pb n="19" facs="tcp:206540:13"/> gore of such noble Christians, what black the darknesse of that day, what azure the terriblenesse of that fire, what invention imitato the noise of that infernall blow, lowder then many Gannons? this was a death never to be painted to the life; no pen, nor pensill, no art nor heart can comprehend it. Blush they not to have it recorded, in such a time, was such a Treason. Such, as no Oratory can expresse it. Let me conclude the first particular with the words of <hi>Moses, Deut.</hi> 4. 32. Inquire now of the dayes that are past, which were before thee, since the day that God created man upon the earth, and ask from the one end of Heaven to the other, if there came to passe such a great thing as this, or whether any such like thing hath been heard.</p>
+            <p>We leave the Invention, and come to the second, Gods prevention.</p>
+            <p>The danger in our intended misery gives a glorious lustre to our delivery. God was on our side. As they had bound themselves to secrecie, so they had chosen a place as secret, they built the foundation of their designe under the foundation of the Parliament House, <hi>Insidiantur in ab<g ref="char:EOLhyphen"/>scondito,</hi> and say to the ground cover us, they trust not the aire, lest the whistling winde should bring tydings, or the fowles of the aire reveile it, who should now discover these <hi>penetralia mortis,</hi> these inward chambers of death? the powder, billets, with all their instru<g ref="char:EOLhyphen"/>ments of death are in readinesse, their Catholike Dooms<g ref="char:EOLhyphen"/>day is at hand, and now there wants nothing but a hand to act it; all this time God beholds, and laughs, but yet re<g ref="char:EOLhyphen"/>veals not: But then whilst they said of our foules there is no help for them in their God, even then was Gods time; <hi>nox una interposita,</hi> not a whole night neither, some few
+<pb n="20" facs="tcp:206540:14"/> houres wee had to spend, and then hee comes with <hi>Stuliè, hac nocte,</hi> Foole, this night, I will discover all.</p>
+            <p>So farre was this from our prevention, as it was not in our imagination. Yet then comes God, defeats their stra<g ref="char:EOLhyphen"/>tagems, opens the vault, or rather their hell of barbarous vill any; we may truly say, This is the Lords doing, and it is marvellous in our eyes. Great works become a great God, <hi>opera testantur de me,</hi> saith Christ, will you not be<g ref="char:EOLhyphen"/>lieve except you see? let demonstration convince you, The snare is broken, and we are escaped. They were say<g ref="char:EOLhyphen"/>ing, where is now there God. Behold, <hi>hic est Deus,</hi> our God is here, when wee had most need of him; here was <hi>opus Deo,</hi> a work fit for the Deity to performe. We were tyed with the bands of death, here then was <hi>dignus vindice nodus,</hi> a knot worthy of the finger of the Almighty to un<g ref="char:EOLhyphen"/>ty. Malice had doomed us to the fire, but our comfort is, <hi>Nihil potestatis in nos habui sse ignem.</hi> This was a delivery fit for God, a cure for the Almighty only to undertake.</p>
+            <p>Thirdly, Our Thankfulnesse.</p>
+            <p>The Kingly Prophet tels us in the <hi>Psal.</hi> 111. 4. That the Lord hath made his wonderfull workes to bee had in re<g ref="char:EOLhyphen"/>membrance, but some more especially, for some are more then marvailous, as this of our deliverance. It is our part now to sing unto the Lord a new Song, For with his right hand, and holy arme he hath gotten him the victory, <hi>Psal.</hi> 98. 1. Aske from East to West, from one Pole to the o<g ref="char:EOLhyphen"/>ther, Search all the Records under Heaven, if ever there were the like, their Vault, a store-house of destruction a<g ref="char:EOLhyphen"/>gainst us in their intents, against themselves in the event: <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f now we can be silent, we may truly say as the foure Lepers did in the 2 <hi>Kings</hi> 7. 9. We do not wel, for this day <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a day of good tydings, and we hold our peace, If wee
+<pb n="21" facs="tcp:206540:14"/> tarry till day light, some mischiefe will come upon us. Though the day be past, yet it reads a Lecture to this pre<g ref="char:EOLhyphen"/>sent Evening, that day tels news to all days, without which they had not been days to many of us.</p>
+            <p>Let the memory of this day perpetually live, to their shame, and our thankfulnesse, Let it carry its memento with it, a benefit would not be forgotten, not mans, Gods much lesse, such a benefit, especially so rare, as the like was never seene. If God have made it memorable by our strange delivery, let us make it memorable by our rare ac<g ref="char:EOLhyphen"/>knowledgment: This is the day which the Lord hath made, wee will rejoyce and be glad therein. I am sure if their plot had prevailed, it would have been a high Feast in <hi>Gath,</hi> and a day of Jubilee in <hi>Ascalon.</hi> Let us not be backward in expressing joy for our salvation, as they would have beene forward for our destruction. Let us all resolve with <hi>David,</hi> Whilst wee have any being to sing prayses to our God.</p>
+            <p>Our gratitude it must be a thinking, a speaking, a work<g ref="char:EOLhyphen"/>ing gratitude.</p>
+            <p>1 It must be cordiall, the heart must be the Leader, and begin the Song, making melody to the Lord in your hearts, <hi>Ephes.</hi> 5. 19. This God principally requires, <hi>Prov.</hi> 23. 26. this commands all the members, as the Centurion his Souldiers, it bends the knees, it joyns the hands, it o<g ref="char:EOLhyphen"/>pens our mouthes, it disposeth of the whole man, This is that which enlivens all the rest. God judgeth us according to our inward dispositions, the life of all our works lies in the heart, for though our persons shall be judged <hi>secundum opera,</hi> yet our works shall be judged <hi>secundum corda:</hi> our thankfulnesse must proceed, <hi>de visceribus,</hi> from the inward reines; Our destruction should have been by fire, let some
+<pb n="22" facs="tcp:206540:15"/>
+               <hi>vigor igneus</hi> be in our gratitude, there may be <hi>parata ci<g ref="char:EOLhyphen"/>thara, parata lingua, parata manus,</hi> but if there be not <hi>para<g ref="char:EOLhyphen"/>tum cor, Davids</hi> ready, prepared heart, there is no harmo<g ref="char:EOLhyphen"/>ny.</p>
+            <p>Secondly, It must be vocall, <hi>Sermo index animi,</hi> it is the hearts Midwife. <hi>My heart</hi> (saith the Prophet <hi>David) is in<g ref="char:EOLhyphen"/>diting a good matter,</hi> and then follows the tongue, <hi>as a pen of a ready writer, Psal.</hi> 45. 1. Thankfulnesse in the heart, and not uttered by the tongue, is still born, and never lives to speake.</p>
+            <p>Thirdly, It must be Actuall, our <hi>words</hi> brought into <hi>works</hi> testifie true <hi>gratitude.</hi> In our <hi>words</hi> men heare our <hi>thankfulnesse,</hi> in our <hi>works</hi> they <hi>see</hi> it: then <hi>indeed</hi> are we tru<g ref="char:EOLhyphen"/>ly <hi>thankfull,</hi> when our <hi>words</hi> and <hi>works</hi> are <hi>consonant.</hi>
+            </p>
+            <p>It is true, our <hi>goodnesse</hi> cannot <hi>extend</hi> unto the <hi>Lord,</hi> nei<g ref="char:EOLhyphen"/>ther have we <hi>him</hi> here on <hi>earth,</hi> that we might minister un<g ref="char:EOLhyphen"/>to <hi>him,</hi> as to wash <hi>his feet,</hi> and anoint <hi>his blessed body</hi> with precious <hi>oyntments,</hi> therefore should our delight be upon <hi>his</hi> who are <hi>upon earth.</hi>
+            </p>
+            <p>When <hi>Jonathan</hi> was dead, <hi>David</hi> will shew kindnesse to <hi>Mephibosheth</hi> for <hi>Jonathans</hi> sake.</p>
+            <p>
+               <hi>Our Jonathan</hi> is not <hi>dead,</hi> but <hi>liveth,</hi> yet since our good<g ref="char:EOLhyphen"/>nesse cannot <hi>extend</hi> it selfe unto <hi>him,</hi> let us seeke out some poore <hi>Mephibosheth,</hi> and shew kindnesse to <hi>him</hi> for <hi>our Jo<g ref="char:EOLhyphen"/>nathans</hi> sake. In this appeares the <hi>realitie</hi> of our gratefull hearts, that others seeing our good works, are brought to glorifie our Father which is in <hi>Heaven;</hi> To <hi>whom,</hi> as it is most <hi>due,</hi> be ascribed all <hi>honour</hi> and <hi>glory, now</hi> and for <hi>ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <pb facs="tcp:206540:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
